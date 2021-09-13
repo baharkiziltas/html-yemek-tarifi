@@ -1,0 +1,18 @@
+.baslik {
+    width: 1400px;
+    height: 150px;
+    
+}
+.center {
+    align-items: center;
+    
+    margin-top: 0;
+}
+.yukseklik {
+    width: 1400px;
+    height: 1000px;
+}
+
+.ortalacenter {
+    text-align: center;
+}
